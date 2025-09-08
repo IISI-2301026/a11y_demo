@@ -1,0 +1,23 @@
+{
+  "name": "a11y_demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test:a11y": "echo '無障礙測試 - 請使用瀏覽器開發者工具'",
+    "lint:a11y": "echo '無障礙檢查 - 建議安裝 ESLint 無障礙插件'"
+  },
+  "dependencies": {
+    "vue": "^3.5.18"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.10.2",
+    "@testing-library/jest-dom": "^6.8.0",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "axe-core": "^4.10.3",
+    "vite": "^7.1.2"
+  }
+}
