@@ -228,6 +228,12 @@
                 </a>
                 <p>色彩對比度檢測工具</p>
               </li>
+              <li>
+                <a href="https://developer.chrome.com/docs/lighthouse/overview?hl=zh-tw" target="_blank" rel="noopener noreferrer">
+                  Lighthouse 網頁無障礙檢測
+                </a>
+                <p>Google 官方的網站效能與無障礙自動化檢測工具</p>
+              </li>
             </ul>
           </div>
 
